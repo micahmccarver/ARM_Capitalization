@@ -1,8 +1,4 @@
-/*----------------------------------------------------------------------------
-LAB EXERCISE 5.1 - PROCESSING TEXT IN ASSEMBLY LANGUAGE
- ----------------------------------------------
-Examine program execution at the processor level using the debugger 
- *----------------------------------------------------------------------------*/
+
 
 __asm void my_strcpy(const char *src, char *dst){
 	
@@ -125,4 +121,4 @@ while (1);
 	
 }
 
-// *******************************ARM University Program Copyright (c) ARM Ltd 2014*************************************
+
